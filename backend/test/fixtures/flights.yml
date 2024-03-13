@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  airline_name: MyString
+  source_city: MyString
+  destination_city: MyString
+  departure_time: 2024-03-13 12:14:26
+  arrival_time: 2024-03-13 12:14:26
+  duration: 1
+  number_of_stops: 1
+  price: 9.99
+
+two:
+  airline_name: MyString
+  source_city: MyString
+  destination_city: MyString
+  departure_time: 2024-03-13 12:14:26
+  arrival_time: 2024-03-13 12:14:26
+  duration: 1
+  number_of_stops: 1
+  price: 9.99
