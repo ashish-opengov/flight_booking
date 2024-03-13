@@ -62,7 +62,7 @@ This is a web application for booking online flight tickets. It consists of a Re
 1. Clone the repository:
 
    bash
-   git clone <repository-url>
+   git clone <git@github.com:ashish-opengov/flight_booking.git>
    cd flight-booking-app
    
 2. Backend setup:
@@ -101,3 +101,12 @@ This is a web application for booking online flight tickets. It consists of a Re
  bash
   cd backend
   rails test
+
+## Screenshots
+
+![Screenshot from 2024-03-13 15-26-54](https://github.com/ashish-opengov/flight_booking/assets/61679171/58415265-27b4-4b8e-9a00-653103ebec55)
+![Screenshot from 2024-03-13 15-27-14](https://github.com/ashish-opengov/flight_booking/assets/61679171/16ad2382-683e-4c73-a03c-e4881b2eac65)
+![Screenshot from 2024-03-13 15-23-35](https://github.com/ashish-opengov/flight_booking/assets/61679171/b3b1eafd-72f1-4422-abac-0b5748c05b6b)
+![Screenshot from 2024-03-13 16-00-02](https://github.com/ashish-opengov/flight_booking/assets/61679171/a242a3e4-bc3a-441d-95e2-22d293da344a)
+![Screenshot from 2024-03-13 15-23-55](https://github.com/ashish-opengov/flight_booking/assets/61679171/30128cfd-660b-493d-a5d3-24d341b66ae3)
+
